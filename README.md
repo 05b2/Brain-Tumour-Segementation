@@ -42,6 +42,18 @@ The dataset should be organized in the following format under the `Training` fol
 Each folder must contain respective images in `.jpg`, `.png`, or similar formats.
 
 ---
+##   Interface
+
+The app will launch in your browser using Gradio. Upload an image and it will predict the tumor class.
+
+##Example Output
+![OutputScreenshot](images/output.png)
+
+##  Author
+
+Created by **Bertil Jovita JP**
+Contact: []
+GitHub: []
 
 ##  How to Run
 
@@ -75,18 +87,7 @@ Each folder must contain respective images in `.jpg`, `.png`, or similar formats
 
 
 
-##   Interface
 
-The app will launch in your browser using Gradio. Upload an image and it will predict the tumor class.
-
-##Example Output
-![OutputScreenshot](images/output.png)
-
-##  Author
-
-Created by **Bertil Jovita JP**
-Contact: []
-GitHub: []
 
 
 
