@@ -77,6 +77,8 @@ Each folder must contain respective images in `.jpg`, `.png`, or similar formats
 The app will launch in your browser using Gradio. Upload an image and it will predict the tumor class.
 
 ---
+##Example Output
+![OutputScreenshot](images/output.png)
 
 ##  Author
 
