@@ -52,8 +52,8 @@ The app will launch in your browser using Gradio. Upload an image and it will pr
 ##  Author
 
 Created by **Bertil Jovita JP**
-Contact: []
-GitHub: []
+Contact: [bittuu2005@gmail.com]
+GitHub: [https://github.com/05b2]
 
 ##  How to Run
 
