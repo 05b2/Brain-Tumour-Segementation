@@ -13,13 +13,13 @@ A simple web interface is created using [Gradio](https://gradio.app/) to allow e
 
 ---
 
-## 🔍 Demo
+##  Demo
 
 Upload an MRI scan and get an instant classification prediction via the Gradio interface.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python
 - TensorFlow & Keras
@@ -30,7 +30,7 @@ Upload an MRI scan and get an instant classification prediction via the Gradio i
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 The dataset should be organized in the following format under the `Training` folder:
 /Training
@@ -71,7 +71,8 @@ Each folder must contain respective images in `.jpg`, `.png`, or similar formats
 
 ---
 
-## 🖼 Interface
+
+##  Interface
 
 The app will launch in your browser using Gradio. Upload an image and it will predict the tumor class.
 
